@@ -1,0 +1,24 @@
+{
+"product": [
+[{"id":1,"name":"North American river otter","last_name":"Green"},
+{"id":2,"name":"Desert kangaroo rat","last_name":"Red"},
+{"id":3,"name":"Cobra, egyptian","last_name":"Orange"},
+{"id":4,"name":"Asiatic jackal","last_name":"Aquamarine"},
+{"id":5,"name":"Groundhog","last_name":"Yellow"},
+{"id":6,"name":"Bleu, red-cheeked cordon","last_name":"Maroon"},
+{"id":7,"name":"Crane, sandhill","last_name":"Turquoise"},
+{"id":8,"name":"Squirrel, palm","last_name":"Puce"},
+{"id":9,"name":"Mississippi alligator","last_name":"Orange"},
+{"id":10,"name":"Long-necked turtle","last_name":"Yellow"},
+{"id":11,"name":"Crown of thorns starfish","last_name":"Yellow"},
+{"id":12,"name":"Crimson-breasted shrike","last_name":"Fuscia"},
+{"id":13,"name":"Waterbuck, common","last_name":"Violet"},
+{"id":14,"name":"Salmon, sockeye","last_name":"Violet"},
+{"id":15,"name":"African pied wagtail","last_name":"Turquoise"},
+{"id":16,"name":"Goanna lizard","last_name":"Crimson"},
+{"id":17,"name":"Southern tamandua","last_name":"Indigo"},
+{"id":18,"name":"Owl, great horned","last_name":"Maroon"},
+{"id":19,"name":"Roseate cockatoo","last_name":"Teal"},
+{"id":20,"name":"Crane, sarus","last_name":"Teal"}]
+]
+}
